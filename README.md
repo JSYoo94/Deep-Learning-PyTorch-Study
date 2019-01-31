@@ -21,7 +21,6 @@
 ### 05. Autoencoder
 - Basic Autoencoder
 - Denoising Autoencoder
-- k-sparse Autoencoder
 - Variational Autoencoder
 - Convolutional Autoencoder
 
@@ -29,7 +28,6 @@
 - Vanilla GAN
 - LSGAN
 - DCGAN
-
 
 ---------------------------------
 # Requirements
