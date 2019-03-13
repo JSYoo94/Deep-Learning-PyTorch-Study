@@ -4,27 +4,25 @@
 ### 01. Basic Tutorial
 - Python
 - PyTorch Tensor Usage
+- Linear & Logistic Regression
+- Neural Network with MNIST
 
-### 02. Neural Network
-- Perceptron
-- Neural Network
-
-### 03. CNN
+### 02. CNN
 - Basic CNN with MNIST
 - Basic CNN with CIFAR-10
 
-### 04. RNN
+### 03. RNN
 - Basic RNN with MNIST
 - Gated Recurrent Unit
 - LSTM
 
-### 05. Autoencoder
+### 04. Autoencoder
 - Basic Autoencoder
 - Denoising Autoencoder
 - Variational Autoencoder
 - Convolutional Autoencoder
 
-### 06. Generative Adversarial Network
+### 05. Generative Adversarial Network
 - Vanilla GAN
 - LSGAN
 - DCGAN
