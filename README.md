@@ -17,10 +17,10 @@
 - LSTM
 
 ### 04. Autoencoder
-- [Basic Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/04_Autoencoder/01_Autoencoder.ipynb)
-- [Denoising Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/04_Autoencoder/02_Denoising_Autoencoder.ipynb)
-- [Variational Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/04_Autoencoder/03_Variational_Autoencoder.ipynb)
-- [Convolutional Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/04_Autoencoder/04_Convolutional_VAE.ipynb)
+- [Basic Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/04_Autoencoder/01_Autoencoder.ipynb)
+- [Denoising Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/04_Autoencoder/02_Denoising_Autoencoder.ipynb)
+- [Variational Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/04_Autoencoder/03_Variational_Autoencoder.ipynb)
+- [Convolutional Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/04_Autoencoder/04_Convolutional_VAE.ipynb)
 
 ### 05. Generative Adversarial Network
 - Vanilla GAN
