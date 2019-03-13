@@ -1,7 +1,7 @@
 -----------------------------
 # Contents
 -----------------------------
-### 01. Basic Tutorial
+### 01. Basic
 - Python
 - PyTorch Tensor Usage
 - Linear & Logistic Regression
