@@ -23,7 +23,7 @@
 - [Convolutional Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/04_Autoencoder/04_Convolutional_VAE.ipynb)
 
 ### 05. Generative Adversarial Network
-- [Vanilla GAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative_Adversarial_Network/01_Vanilla GAN.ipynb)
+- [Vanilla GAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative_Adversarial_Network/01_Vanilla_GAN.ipynb)
 - [LSGAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative_Adversarial_Network/02_LSGAN.ipynb)
 - [DCGAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative_Adversarial_Network/03_DCGAN.ipynb)
 
