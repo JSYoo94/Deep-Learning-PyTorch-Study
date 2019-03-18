@@ -8,11 +8,11 @@
 - Neural Network with MNIST
 
 ### 02. CNN
-- Basic CNN with MNIST
+- [Basic CNN with MNIST](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/02_CNN/01_CNN_MNIST.ipynb)
 - Basic CNN with CIFAR-10
 
 ### 03. RNN
-- Basic RNN with MNIST
+- [Basic RNN with MNIST](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/03_RNN/01_RNN_MNIST.ipynb)
 - Gated Recurrent Unit
 - LSTM
 
