@@ -23,9 +23,9 @@
 - [Convolutional Autoencoder](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/04_Autoencoder/04_Convolutional_VAE.ipynb)
 
 ### 05. Generative Adversarial Network
-- Vanilla GAN
-- LSGAN
-- DCGAN
+- [Vanilla GAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative Adversarial Network/01_Vanilla GAN.ipynb)
+- [LSGAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative Adversarial Network/02_LSGAN.ipynb)
+- [DCGAN](https://github.com/JSYoo94/Deep-Learning-PyTorch-Study/blob/master/05_Generative Adversarial Network/03_DCGAN.ipynb)
 
 ---------------------------------
 # Requirements
