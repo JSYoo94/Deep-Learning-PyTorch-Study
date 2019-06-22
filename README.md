@@ -35,7 +35,7 @@
 - Numpy
 - matplotlib
 
-- CUDA 9.0  (https://developer.nvidia.com/cuda-90-download-archive)
+- CUDA 10.0  (https://developer.nvidia.com/cuda-90-download-archive)
 - CuDNN 7.4.2 (https://developer.nvidia.com/cudnn)
 
 - Aanaconda (https://www.anaconda.com/download/)
